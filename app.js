@@ -3,15 +3,15 @@
 
 ///Edit Under This
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyD6Kb6ItE6Y2WBJcs3FVrsCicKu_53_fBA",
+  authDomain: "arshack-d0d7b.firebaseapp.com",
+  databaseURL: "https://arshack-d0d7b.firebaseio.com",
+  projectId: "arshack-d0d7b",
+  storageBucket: "arshack-d0d7b.appspot.com",
+  messagingSenderId: "569768315113",
+  appId: "1:569768315113:web:2d5fdf53733dceb4cfc878",
+  measurementId: "G-HCC795CR59"
 };
 
      
